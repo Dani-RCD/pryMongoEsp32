@@ -13,7 +13,7 @@ CORS(app)
 MONGO_URI = os.environ.get("MONGO_URI")
 client = MongoClient(MONGO_URI)
 db = client["Mongo32"]
-collection = db["priMongo32"]
+collection = db["PriMongo32"]
 
 
 
