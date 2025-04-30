@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: pryMongoEsp32D
+    name: pryMongoEsp32D-f61z
     runtime: python
     repo: https://github.com/Dani-RCD/pryMongoEsp32.git
     plan: free
